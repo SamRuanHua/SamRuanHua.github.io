@@ -46,6 +46,9 @@ Soooooooo Cool
 <hr>
 <h1>That 's all.See you next time
 <a href="https://www.baidu.com"><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1533722391147&di=3bfe67a926fae8b033ee77d94dbb53a4&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F4a36acaf2edda3cc18dd840e0ae93901213f92e6.jpg">
+<blockquote>
+苟利国家生死以，岂因祸福避趋之——林则徐
+</blockquote>
 <body>
 <html>
 
