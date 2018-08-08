@@ -15,7 +15,7 @@ Soooooooo Cool
 <p>
 在学习过程中我感觉html其实不算非常难，想要入门不用太长的时间，但是最难的应该还是将各个板块拼接在一起。比如我在写这个网站最开始的时候插入了head标签以后直接紧跟body标签，结果发现body标签里这些本应该出现在网站上的东西没有出现，但是我删除了head标签以后这些东西就出现了。在看CSS教学视频的时候就感觉头很大，感觉CSS要比html复杂得多
 <p>
-<img src="https://wx2.sinaimg.cn/mw1024/9efda93dgy1ftyylgnb8tg20bo0fxhdv.gif">
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1533723100675&di=e85bbf13d9ec9dc638e15c5403509a9b&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dpixel_huitu%252C0%252C0%252C294%252C40%2Fsign%3Dd8fc69a8c611728b24208462a184a6a2%2F7a899e510fb30f244b5b0a3ac395d143ac4b03c1.jpg">
 <hr>
 <p>
 <h1>
