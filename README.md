@@ -1,4 +1,3 @@
-# SamRuanHua.github.io
 <html>
   <head>
     <title>SamRuan</title>
