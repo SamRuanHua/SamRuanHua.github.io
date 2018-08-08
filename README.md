@@ -1,5 +1,8 @@
 # SamRuanHua.github.io
 <html>
+<head>
+    <title>Sam Ruan</title>
+</head>
 <body>
  <header>
   <h1>
@@ -47,3 +50,4 @@ Soooooooo Cool
 </h1>
 <body>
 <html>
+
